@@ -1,0 +1,17 @@
+[
+  {
+    "id": 81,
+    "short_name": "L",
+    "name": "Lisans",
+    "special_instructions": "Lisans eğitimi burada verilmektedir.",
+    "url": "https://davids-restaurant.herokuapp.com/categories/81.json"
+  },
+  {
+    "id": 82,
+    "short_name": "A",
+    "name": "Yüksek Lisans",
+    "special_instructions": "",
+    "url": "https://davids-restaurant.herokuapp.com/categories/82.json"
+  }
+
+]
